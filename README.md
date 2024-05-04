@@ -2,7 +2,7 @@
 
 ## Introduction
 
-💬 This folder contains all my work for the presentation about Content-Security-Policy (CSP).
+💬 This folder contains all my work for the presentation about Content-Security-Policy (CSP) given at the [VOXXED LU 2024](https://luxembourg.voxxeddays.com/en/) conference..
 
 💻 [VSCode](https://code.visualstudio.com/) was used as main [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment).
 
