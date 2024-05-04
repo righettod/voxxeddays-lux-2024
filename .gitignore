@@ -1,0 +1,4 @@
+# Browser used for the tests
+chromium/
+# Backup files
+*.bkp

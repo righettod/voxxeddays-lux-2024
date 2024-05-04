@@ -1,0 +1,1758 @@
+[
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-elem",
+            "effective-directive": "style-src-elem",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.googleapis.com\/css2?family=Open+Sans:wght@400;600&family=Raleway:wght@600;800&display=swap",
+            "line-number": 14,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 88,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 161,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 241,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 243,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 253,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 255,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 361,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 380,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 399,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 418,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 437,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 456,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 482,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 497,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 511,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 525,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCAIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCkIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCIIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCMIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyC0ITw.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 539,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 553,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 567,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 581,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 595,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 615,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 626,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "img-src",
+            "effective-directive": "img-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "blob",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 2,
+            "column-number": 39316,
+            "source-file": "http:\/\/localhost:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "img-src",
+            "effective-directive": "img-src",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "data",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "style-src-attr",
+            "effective-directive": "style-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 43,
+            "column-number": 37,
+            "source-file": "http:\/\/localhost:8000\/js\/vulnerable.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-attr",
+            "effective-directive": "script-src-attr",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 1,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-elem",
+            "effective-directive": "script-src-elem",
+            "original-policy": "default-src 'self'; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "http:\/\/righettod.local:9000\/test.js?_=1707551146071",
+            "line-number": 2,
+            "column-number": 83755,
+            "source-file": "http:\/\/localhost:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCAIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCkIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCIIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCMIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyC0ITw.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "img-src",
+            "effective-directive": "img-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "blob",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "img-src",
+            "effective-directive": "img-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "data",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-attr",
+            "effective-directive": "script-src-attr",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 1,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-elem",
+            "effective-directive": "script-src-elem",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "http:\/\/righettod.local:9000\/test.js?_=1707551281550",
+            "line-number": 2,
+            "column-number": 83755,
+            "source-file": "http:\/\/localhost:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCAIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCkIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCIIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCMIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyC0ITw.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "img-src",
+            "effective-directive": "img-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "blob",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-attr",
+            "effective-directive": "script-src-attr",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 1,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-elem",
+            "effective-directive": "script-src-elem",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "http:\/\/righettod.local:9000\/test.js?_=1707551437951",
+            "line-number": 2,
+            "column-number": 83755,
+            "source-file": "http:\/\/localhost:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/opensans\/v40\/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCAIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCkIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCIIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyCMIT5lu.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "font-src",
+            "effective-directive": "font-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "https:\/\/fonts.gstatic.com\/s\/raleway\/v29\/1Ptug8zYS_SKggPNyC0ITw.woff2",
+            "line-number": 2,
+            "column-number": 362108,
+            "source-file": "chrome-extension",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "img-src",
+            "effective-directive": "img-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "blob",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-attr",
+            "effective-directive": "script-src-attr",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 1,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-elem",
+            "effective-directive": "script-src-elem",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "http:\/\/righettod.local:9000\/test.js?_=1707551623036",
+            "line-number": 2,
+            "column-number": 83755,
+            "source-file": "http:\/\/localhost:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "img-src",
+            "effective-directive": "img-src",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "blob",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-attr",
+            "effective-directive": "script-src-attr",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 1,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-elem",
+            "effective-directive": "script-src-elem",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data:; font-src 'self' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "http:\/\/righettod.local:9000\/test.js?_=1707551725811",
+            "line-number": 2,
+            "column-number": 83755,
+            "source-file": "http:\/\/localhost:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-attr",
+            "effective-directive": "script-src-attr",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data: blob:; font-src 'self' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "inline",
+            "line-number": 1,
+            "source-file": "http:\/\/localhost:8000\/shop-detail.php",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-elem",
+            "effective-directive": "script-src-elem",
+            "original-policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com\/css2 https:\/\/fonts.gstatic.com\/s; img-src 'self' data: blob:; font-src 'self' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "http:\/\/righettod.local:9000\/test.js?_=1707551752179",
+            "line-number": 2,
+            "column-number": 83755,
+            "source-file": "http:\/\/localhost:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-elem",
+            "effective-directive": "script-src-elem",
+            "original-policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; img-src 'self' data: blob:; font-src 'self' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "http:\/\/righettod.local:9000\/test.js?_=1707552234471",
+            "line-number": 2,
+            "column-number": 83755,
+            "source-file": "http:\/\/localhost:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-elem",
+            "effective-directive": "script-src-elem",
+            "original-policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; img-src 'self' data: blob:; font-src 'self' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "http:\/\/righettod.local:9000\/test.js?_=1707552360087",
+            "line-number": 2,
+            "column-number": 83755,
+            "source-file": "http:\/\/localhost:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/localhost:8000\/shop-detail.php",
+            "referrer": "http:\/\/localhost:8000\/",
+            "violated-directive": "script-src-elem",
+            "effective-directive": "script-src-elem",
+            "original-policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; img-src 'self' data: blob:; font-src 'self' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "http:\/\/righettod.local:9000\/test.js?_=1707552521996",
+            "line-number": 2,
+            "column-number": 83755,
+            "source-file": "http:\/\/localhost:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/righettod.local:8000\/shop-detail.php",
+            "referrer": "http:\/\/righettod.local:8000\/",
+            "violated-directive": "script-src-elem",
+            "effective-directive": "script-src-elem",
+            "original-policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; img-src 'self' data: blob:; font-src 'self' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "http:\/\/righettod.local:9000\/test.js?_=1707555669425",
+            "line-number": 2,
+            "column-number": 83755,
+            "source-file": "http:\/\/righettod.local:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/righettod.local:8000\/shop-detail.php",
+            "referrer": "http:\/\/righettod.local:8000\/",
+            "violated-directive": "script-src-elem",
+            "effective-directive": "script-src-elem",
+            "original-policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; img-src 'self' data: blob:; font-src 'self' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "http:\/\/attacker.local:9000\/payload.js?_=1707555907690",
+            "line-number": 2,
+            "column-number": 83755,
+            "source-file": "http:\/\/righettod.local:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/righettod.local:8000\/shop-detail.php",
+            "referrer": "http:\/\/righettod.local:8000\/",
+            "violated-directive": "script-src-elem",
+            "effective-directive": "script-src-elem",
+            "original-policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; img-src 'self' data: blob:; font-src 'self' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "http:\/\/attacker.local:9000\/payload.js?_=1707557354256",
+            "line-number": 2,
+            "column-number": 83755,
+            "source-file": "http:\/\/righettod.local:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    },
+    {
+        "csp-report": {
+            "blocked-uri": "http:\/\/attacker.local:9000\/payload.js?_=1707559444508",
+            "column-number": 83755,
+            "disposition": "report",
+            "document-uri": "http:\/\/righettod.local:8000\/shop-detail.php",
+            "effective-directive": "script-src-elem",
+            "line-number": 2,
+            "original-policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; img-src 'self' data: blob:; font-src 'self' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; report-uri http:\/\/righettod.local:8000\/csp-notification-listener.php",
+            "referrer": "http:\/\/righettod.local:8000\/",
+            "source-file": "http:\/\/righettod.local:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "violated-directive": "script-src-elem"
+        }
+    },
+    {
+        "csp-report": {
+            "document-uri": "http:\/\/righettod.local:8000\/shop-detail.php",
+            "referrer": "",
+            "violated-directive": "script-src-elem",
+            "effective-directive": "script-src-elem",
+            "original-policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; img-src 'self' data: blob:; font-src 'self' https:\/\/fonts.googleapis.com https:\/\/fonts.gstatic.com; report-uri \/csp-notification-listener.php",
+            "disposition": "report",
+            "blocked-uri": "http:\/\/attacker.local:9000\/payload.js?_=1707559572943",
+            "line-number": 2,
+            "column-number": 83755,
+            "source-file": "http:\/\/righettod.local:8000\/js\/jquery.min.js",
+            "status-code": 200,
+            "script-sample": ""
+        }
+    }
+]
