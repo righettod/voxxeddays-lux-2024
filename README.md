@@ -75,3 +75,7 @@ Listening on http://0.0.0.0:8000
 * [Base of the mock web app](https://themewagon.com/themes/fruitables-free/).
 * [PHP download for Windows](https://windows.php.net/download#php-8.3).
 * [Chromium download](https://chromium.woolyss.com/download/en/).
+
+  # License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Presentation and all the content of this repository are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
