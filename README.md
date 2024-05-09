@@ -14,7 +14,7 @@
   * [code.code-workspace](code.code-workspace): VScode workspace descriptor.
   * [pitch.docx](pitch.docx): Contains the synopsis, in french, of the presentation.
   * [presentation.pptx](presentation.pptx): Contains the presentation.
-  * [presentation-schemas.md](ppresentation-schemas.md): Contains the schemas used into presentation created using [mermaid](https://mermaid.js.org/).
+  * [presentation-schemas.md](presentation-schemas.md): Contains the schemas used into presentation created using [mermaid](https://mermaid.js.org/).
   * [scratchpad.md](scratchpad.md): Contains all the technical notes and information gathered during the work on the presentation and related technical research.
 * 📂 Folders:
   * [app](app/): Contains the mock web application with the XSS used for the context of the presentation.
