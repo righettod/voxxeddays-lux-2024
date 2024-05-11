@@ -77,6 +77,7 @@ Listening on http://0.0.0.0:8000
 * [Base of the mock web app](https://themewagon.com/themes/fruitables-free/).
 * [PHP download for Windows](https://windows.php.net/download#php-8.3).
 * [Chromium download](https://chromium.woolyss.com/download/en/).
+* [Mozilla web security guidelines](https://infosec.mozilla.org/guidelines/web_security).
 
 # License
 
