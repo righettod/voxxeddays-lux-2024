@@ -47,12 +47,26 @@ mindmap
 ```mermaid
 mindmap
   root((Sources))
-    'none'
-    'self'
     righettod.eu
     *.righettod.eu
     https://*.cdn.eu
     https://*.cdn.eu:843
     http://cdn.eu/js/lib.js
+    ...
+```
+
+### CSP keywords
+
+```mermaid
+mindmap
+  root((Keywords))
+    'none'
+        Won't allow loading of any resources
+    'self'
+        Only allow resources from the current origin
+    'unsafe-inline'
+        Allow use of inline resources
+    'unsafe-eval'
+        Allow use of dynamic code evaluation
     ...
 ```
