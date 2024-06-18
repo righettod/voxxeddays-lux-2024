@@ -19,6 +19,7 @@
 * 📂 Folders:
   * [app](app/): Contains the mock web application with the XSS used for the context of the presentation.
   * [attacker](attacker/): Contains the web listeners and payloads used to exploit the XSS as the attacker.
+  * [exports](exports/): Contains different formats of the presentation.  
   * [sources](sources/): Contains the original files of different elements used.
 
 ## Run the app
