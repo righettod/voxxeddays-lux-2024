@@ -8,6 +8,10 @@
 
 💻 A distribution of [Chromium](https://chromium.woolyss.com/download/en/) for Windows was used to work on this research. It was stored in a folder, named **chromium**, located at the root of the project folder (added to [git ignore file](.gitignore)).
 
+## Talk
+
+https://www.youtube.com/watch?v=kJ8xixzH9mc
+
 ## Content
 
 * 📄 Files:
